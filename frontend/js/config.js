@@ -1,2 +1,2 @@
 // Change this if your backend runs on a different port/host
-const API_BASE = 'http://localhost:5000/api';
+const API_BASE = 'https://alumni-platform-backend-od9b.onrender.com';
